@@ -2433,6 +2433,363 @@
   {
     "url": "https://www.sololearn.com/learning/1082/2821/6128/2",
     "selector": "div:contains(\"5\")[class^=sl-single-choice-item]"
+  },
+                {
+    "url": "https://www.sololearn.com/learning/1060/1849/3577/2",
+    "texts": [
+      "primary"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1850/3580/2",
+    "buttons": [
+      "SHOW",
+      "DATABASES"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1850/3582/2",
+    "buttons": [
+      "SHOW",
+      "FROM"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1850/3583/2",
+    "menus": [
+      "SELECT",
+      "name",
+      "FROM",
+      "customers"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1851/3586/2",
+    "selector": "div:contains(\"Whitespaces and line breaks are ignored\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1852/3587/2",
+    "texts": [
+      "name",
+      "people"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1853/3589/2",
+    "buttons": [
+      "SELECT",
+      "DISTINCT",
+      "FROM"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1853/3591/2",
+    "buttons": [
+      "SELECT",
+      "4",
+      "12"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1854/3592/2",
+    "texts": [
+      "customers",
+      "address"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1854/3594/2",
+    "texts": [
+      "name",
+      "state"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1855/3596/2",
+    "buttons": [
+      "SHOW"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1856/3599/2",
+    "buttons": [
+      "WHERE",
+      "23;"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1856/3601/2",
+    "buttons": [
+      "FROM",
+      "WHERE",
+      "BETWEEN",
+      "13"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1856/3602/2",
+    "menus": [
+      "SELECT *",
+      "FROM people ",
+      "WHERE",
+      "city = 'Boston'"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1857/3605/2",
+    "buttons": [
+      "OR",
+      "AND"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1858/3607/2",
+    "buttons": [
+      "NOT IN"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1859/3608/2",
+    "texts": [
+      "concat"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1859/3610/2",
+    "buttons": [
+      "CONCAT",
+      "(city, ', ', state)",
+      "AS"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1860/3611/2",
+    "selector": "div:contains(\"LOWER\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1860/3613/2",
+    "texts": [
+      "sum"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1861/3614/2",
+    "buttons": [
+      "WHERE",
+      "ORDER BY",
+      "DESC"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1861/3615/2",
+    "buttons": [
+      "WHERE",
+      "AVG",
+      "items"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1862/3616/2",
+    "buttons": [
+      "LIKE"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1862/3617/2",
+    "buttons": [
+      "MIN",
+      "LIKE",
+      "IN"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1863/3619/2",
+    "menus": [
+      "SELECT name, university ",
+      "FROM students WHERE university",
+      "IN ('Stanford', 'MIT')",
+      "ORDER BY university;"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1863/3622/2",
+    "buttons": [
+      "SELECT",
+      "WHERE",
+      "AVG"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1865/3623/2",
+    "selector": "div:contains(\"Creates a temporary table with the joined tables' data\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1865/3625/2",
+    "buttons": [
+      "customers",
+      "WHERE"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1866/3626/2",
+    "texts": [
+      "it",
+      "as",
+      "ct"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1866/3628/2",
+    "buttons": [
+      "OUTER",
+      "ON"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1866/3629/2",
+    "menus": [
+      "SELECT students.names, universities.names",
+      "FROM students",
+      "RIGHT OUTER JOIN universities",
+      "ON students.university_id=universities.id"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1867/3630/2",
+    "buttons": [
+      "SELECT",
+      "cost",
+      "FROM",
+      "WHERE"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1867/3632/2",
+    "texts": [
+      "union all"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1868/3633/2",
+    "buttons": [
+      "INSERT",
+      "INTO",
+      "VALUES"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1868/3635/2",
+    "selector": "div:contains(\"We don't have to insert values for all columns in the table\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1869/3640/2",
+    "buttons": [
+      "DELETE",
+      "WHERE",
+      "AND"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1870/3642/2",
+    "texts": [
+      "int"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1870/3646/2",
+    "buttons": [
+      "CREATE TABLE",
+      "int",
+      "varchar",
+      "PRIMARY KEY"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1871/3647/2",
+    "buttons": [
+      "varchar",
+      "NOT",
+      "NULL"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1871/3649/2",
+    "buttons": [
+      "TABLE ",
+      "NOT",
+      "AUTO_INCREMENT",
+      "PRIMARY KEY "
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1872/3651/2",
+    "selector": "div:contains(\"DROP TABLE\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1872/3652/2",
+    "buttons": [
+      "RENAME",
+      "TO",
+      "humans"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1873/3653/2",
+    "selector": "div:contains(\"CREATE VIEW\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1873/3655/2",
+    "selector": "div:contains(\"Views are being updated dynamically\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1874/3657/2",
+    "buttons": [
+      "INSERT",
+      "INTO",
+      "VALUES"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1874/3661/2",
+    "selector": "div:contains(\"RENAME\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/1874/3752/2",
+    "buttons": [
+      "ALTER",
+      "DROP",
+      "COLUMN"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/2075/4054/2",
+    "menus": [
+      "SELECT * ",
+      "FROM students",
+      "WHERE age < 21",
+      "ORDER BY name"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/2075/4059/2",
+    "buttons": [
+      "CONCAT",
+      "city"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/2076/4068/2",
+    "buttons": [
+      "UPDATE",
+      "SET"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1060/2076/4069/2",
+    "buttons": [
+      "ALTER",
+      "ADD"
+    ]
   }
     ]
 
