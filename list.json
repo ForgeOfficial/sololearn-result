@@ -1,12 +1,12 @@
 {
         "support": [
                 {
-                        name: 'PHP',
-                        link: 'https://www.sololearn.com/learning/1059'
+                        "name": 'PHP',
+                        "link": 'https://www.sololearn.com/learning/1059'
                 },
                 {
-                        name: 'CSS',
-                        link: 'https://www.sololearn.com/learning/1023'
+                        "name": 'CSS',
+                        "link": 'https://www.sololearn.com/learning/1023'
                 }
         ],
         "list": [
