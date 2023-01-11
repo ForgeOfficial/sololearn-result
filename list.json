@@ -12,6 +12,10 @@
                 {
                         "name": "HTML",
                         "link": "https://www.sololearn.com/learning/1014"
+                },
+                {
+                        "name": "jQuery",
+                        "link": "https://www.sololearn.com/learning/1082"
                 }
         ],
         "list": [
@@ -2237,6 +2241,198 @@
       "input",
       "required"
     ]
+  },
+                {
+    "url": "https://www.sololearn.com/learning/1082/2785/5935/2",
+    "texts": [
+      "script",
+      "src",
+      "/head"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2785/5940/2",
+    "selector": "div:contains(\"ready\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2785/5941/2",
+    "selector": "div:contains(\"$\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2785/5942/2",
+    "texts": [
+      "$",
+      "#",
+      "show"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2790/5953/2",
+    "selector": "div:contains(\"$(\".demo\")\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2790/6013/2",
+    "texts": [
+      "*"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2820/6029/2",
+    "texts": [
+      "$",
+      "function"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2820/6032/2",
+    "selector": "div:contains(\"$(\"h1, h2\")\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2797/5965/2",
+    "buttons": [
+      "#text",
+      "removeAttr",
+      "border"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2798/6020/2",
+    "selector": "div:contains(\"p\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2798/6022/2",
+    "texts": [
+      "#demo",
+      "html"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2822/6041/2",
+    "selector": "div:contains(\"val()\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2824/6044/2",
+    "selector": "div:contains(\"prepend()\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2824/6045/2",
+    "selector": "div:contains(\"112\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2824/6046/2",
+    "selector": "div:contains(\"Yes\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2799/6035",
+    "texts": [
+      "attr",
+      "#img",
+      "src"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2799/6042/2",
+    "selector": "div:contains(\"aa\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2796/5962/2",
+    "texts": [
+      "$",
+      "text"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2796/6015/2",
+    "selector": "div:contains(\"b\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2796/5967/2",
+    "selector": "div:contains(\"No\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2807/6049/2",
+    "texts": [
+      "css",
+      "color",
+      "padding"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2807/6051/2",
+    "selector": "div:contains(\"spaces\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2825/6043/2",
+    "selector": "div:contains(\"siblings\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2800/6053/2",
+    "selector": "div:contains(\"b\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2804/6056/2",
+    "texts": [
+      "2"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2804/6057/2",
+    "buttons": [
+      "children()",
+      "remove()"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2804/6058/2",
+    "selector": "div:contains(\"2\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2810/6000/2",
+    "texts": [
+      "keydown",
+      "event",
+      "which"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2810/6001/2",
+    "texts": [
+      "trigger",
+      "submit"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2814/6122/2",
+    "texts": [
+      "on",
+      "function"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2814/6125/2",
+    "selector": "div:contains(\"111\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2814/6123/2",
+    "texts": [
+      "2"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2816/6008/2",
+    "selector": "div:contains(\"True\")[class^=sl-single-choice-item]"
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2821/6127/2",
+    "texts": [
+      "click",
+      "p",
+      "hide"
+    ]
+  },
+  {
+    "url": "https://www.sololearn.com/learning/1082/2821/6128/2",
+    "selector": "div:contains(\"5\")[class^=sl-single-choice-item]"
   }
     ]
 
