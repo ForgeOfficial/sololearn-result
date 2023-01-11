@@ -1,4 +1,15 @@
-[
+{
+        support: [
+                {
+                        name: 'PHP',
+                        link: 'https://www.sololearn.com/learning/1059'
+                },
+                {
+                        name: 'CSS',
+                        link: 'https://www.sololearn.com/learning/1023'
+                }
+        ],
+        list: [
         {
             "url": "https://www.sololearn.com/learning/1059/1801/3500/2",
             "selector": "div:contains('Server side programming language')[class^=sl-single-choice-item]"
@@ -1708,3 +1719,5 @@
             ]
         }
     ]
+
+}
