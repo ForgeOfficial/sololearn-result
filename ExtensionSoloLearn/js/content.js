@@ -5,11 +5,12 @@ console.log("background.js is ready!");
 
     //PHP AND CSS
     axios.get('https://raw.githubusercontent.com/ForgeOfficial/sololearn-result/main/list.json').then((r) => {
-        window.t = r.data.list;
+        if (r.data.support.find(s => document.URL.startsWith(s.link))) {
+            window.t = r.data.support.find(s => document.URL.startsWith(s.link)).answers.find(s => document.URL.startsWith(s.link)).answers;
+        }
     });
 
     setInterval(() => {
-
         if (!window.t) return;
         const test = window.t.find(u => u.url === document.URL);
 
