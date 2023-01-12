@@ -9,10 +9,6 @@
           "title": "1.1 Lesson - Introduction to PHP",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1059/1801/3500/2",
-              "selector": "div:contains(\"Server side programming language\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1059/1801/3464/2",
               "selector": "div:contains(\"Yes\")[class^=sl-single-choice-item]"
             }
@@ -27,10 +23,6 @@
               "texts": [
                 "?"
               ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1059/1793/3448/2",
-              "selector": "div:contains(\"<script language=\"php\">\")[class^=sl-single-choice-item]"
             },
             {
               "url": "https://www.sololearn.com/learning/1059/1793/3449/2",
@@ -69,15 +61,8 @@
           "title": "4.1 Lesson - Comments",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1059/1795/3453/2",
+              "url": "https://www.sololearn.com/learning/1059/1795/3454",
               "selector": "div:contains(\"//\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1059/1795/3454/2",
-              "texts": [
-                "/*",
-                "*/"
-              ]
             }
           ]
         },
@@ -85,10 +70,6 @@
           "link": "https://www.sololearn.com/learning/1059/1819",
           "title": "5.1 Lesson - Module 1 Quiz",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1059/1819/3499/2",
-              "selector": "div:contains(\"echo \"<p> Hello.</p>\";\")[class^=sl-single-choice-item]"
-            },
             {
               "url": "https://www.sololearn.com/learning/1059/1819/3506/2",
               "texts": [
@@ -108,16 +89,7 @@
         {
           "link": "https://www.sololearn.com/learning/1059/1797",
           "title": "6.1 Lesson - Variables",
-          "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1059/1797/3456/2",
-              "texts": [
-                "$",
-                "=",
-                "age"
-              ]
-            }
-          ]
+          "answers": []
         },
         {
           "link": "https://www.sololearn.com/learning/1059/2331",
@@ -155,10 +127,6 @@
           "title": "9.1 Lesson - Variable Scope",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1059/1800/3502/2",
-              "selector": "div:contains(\"The variable was not defined within the function\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1059/1800/3462/2",
               "texts": [
                 "89"
@@ -183,19 +151,21 @@
           "title": "11.1 Lesson - Module 2 Quiz",
           "answers": [
             {
+              "url": "https://www.sololearn.com/learning/1059/1820/3509",
+              "buttons": [
+                "\"Robert\"",
+                "echo",
+                "$name"
+              ]
+            },
+            {
               "url": "https://www.sololearn.com/learning/1059/1820/3509/2",
               "texts": [
                 "x"
               ]
             },
             {
-              "url": "https://www.sololearn.com/learning/1059/1820/4930/2",
-              "menus": [
-                "<?php",
-                "  $test = 42;",
-                "  echo $test;",
-                "?>"
-              ]
+              "url": "https://www.sololearn.com/learning/1059/1820/4930/2"
             }
           ]
         },
@@ -242,10 +212,6 @@
           "title": "14.1 Lesson - Comparison Operators",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1059/1805/3503/2",
-              "selector": "div:contains(\"!=\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1059/1805/3473/2",
               "selector": "div:contains(\"$num1 != $num2;\")[class^=sl-single-choice-item]"
             }
@@ -266,18 +232,7 @@
           "title": "16.1 Lesson - Module 3 Quiz",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1059/1821/3510/2",
-              "selector": "div:contains(\"||\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1059/1821/3511/2",
-              "menus": [
-                "<?php",
-                "$age = 21;",
-                "$age++;",
-                "echo $age;",
-                "?>"
-              ]
+              "url": "https://www.sololearn.com/learning/1059/1821/3511/2"
             },
             {
               "url": "https://www.sololearn.com/learning/1059/1821/4931/2",
@@ -312,10 +267,6 @@
           "title": "18.1 Lesson - Associative Arrays",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1059/1808/3504/2",
-              "selector": "div:contains(\"'key' => value\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1059/1808/3478/2",
               "texts": [
                 "age"
@@ -327,10 +278,6 @@
           "link": "https://www.sololearn.com/learning/1059/1809",
           "title": "19.1 Lesson - Multi-Dimensional Arrays",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1059/1809/3505/2",
-              "selector": "div:contains(\"As many as you want\")[class^=sl-single-choice-item]"
-            },
             {
               "url": "https://www.sololearn.com/learning/1059/1809/3479/2",
               "texts": [
@@ -345,14 +292,6 @@
           "title": "20.1 Lesson - Module 4 Quiz",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1059/1822/3512/2",
-              "selector": "div:contains(\"True\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1059/1822/3514/2",
-              "selector": "div:contains(\"David went to the store\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1059/1822/3513/2",
               "selector": "div:contains(\"True\")[class^=sl-single-choice-item]"
             }
@@ -361,34 +300,12 @@
         {
           "link": "https://www.sololearn.com/learning/1059/1823",
           "title": "21.1 Lesson - The If Else Statement",
-          "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1059/1823/3515/2",
-              "texts": [
-                "if",
-                ">",
-                "echo"
-              ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1059/1823/3516/2",
-              "buttons": [
-                "$num == 100",
-                "echo \"YES\";",
-                "else",
-                "echo \"NO\";"
-              ]
-            }
-          ]
+          "answers": []
         },
         {
           "link": "https://www.sololearn.com/learning/1059/1824",
           "title": "22.1 Lesson - The Elseif Statement",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1059/1824/3517/2",
-              "selector": "div:contains(\"As many as you want\")[class^=sl-single-choice-item]"
-            },
             {
               "url": "https://www.sololearn.com/learning/1059/1824/3518/2",
               "texts": [
@@ -405,10 +322,6 @@
           "title": "23.1 Lesson - The while Loop",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1059/1825/3519/2",
-              "selector": "div:contains(\"while ( ) { }\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1059/1825/3520/2",
               "texts": [
                 "15",
@@ -422,17 +335,7 @@
           "title": "24.1 Lesson - The Do While Loop",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1059/1828/3524/2",
-              "selector": "div:contains(\"1\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1059/1828/3525/2",
-              "menus": [
-                "$i = 0;",
-                "do { ",
-                "$i++; ",
-                "} while ($i < 10);"
-              ]
+              "url": "https://www.sololearn.com/learning/1059/1828/3525/2"
             }
           ]
         },
@@ -440,10 +343,6 @@
           "link": "https://www.sololearn.com/learning/1059/1826",
           "title": "25.1 Lesson - The For Loop",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1059/1826/3521/2",
-              "selector": "div:contains(\"for (expr1; expr2; expr3)\")[class^=sl-single-choice-item]"
-            },
             {
               "url": "https://www.sololearn.com/learning/1059/1826/3522/2",
               "buttons": [
@@ -457,25 +356,12 @@
         {
           "link": "https://www.sololearn.com/learning/1059/1827",
           "title": "26.1 Lesson - The Foreach Loop",
-          "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1059/1827/3523/2",
-              "texts": [
-                "foreach",
-                "as",
-                "item"
-              ]
-            }
-          ]
+          "answers": []
         },
         {
           "link": "https://www.sololearn.com/learning/1059/1829",
           "title": "27.1 Lesson - The Switch Statement",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1059/1829/3526/2",
-              "selector": "div:contains(\"if elseif else statement\")[class^=sl-single-choice-item]"
-            },
             {
               "url": "https://www.sololearn.com/learning/1059/1829/3527/2",
               "texts": [
@@ -526,18 +412,10 @@
           "title": "30.1 Lesson - Include & Require",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1059/1832/3532/2",
-              "selector": "div:contains(\"include 'file.php';\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1059/1832/3533/2",
               "texts": [
                 "include"
               ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1059/1832/3534/2",
-              "selector": "div:contains(\"The way they handle errors\")[class^=sl-single-choice-item]"
             }
           ]
         },
@@ -546,22 +424,10 @@
           "title": "31.1 Lesson - Module 5 Quiz",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1059/1833/3535/2",
-              "buttons": [
-                "if ($i%2 != 0)",
-                "continue;",
-                "echo $i.\"<br/>\";"
-              ]
-            },
-            {
               "url": "https://www.sololearn.com/learning/1059/1833/3536/2",
               "texts": [
                 "8"
               ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1059/1833/3537/2",
-              "selector": "div:contains(\"True\")[class^=sl-single-choice-item]"
             },
             {
               "url": "https://www.sololearn.com/learning/1059/1833/3538/2",
@@ -572,31 +438,12 @@
         {
           "link": "https://www.sololearn.com/learning/1059/1834",
           "title": "32.1 Lesson - User-Defined Functions",
-          "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1059/1834/3540/2",
-              "selector": "div:contains(\"_hello()\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1059/1834/3539/2",
-              "buttons": [
-                "function",
-                "myFunc",
-                "myFunc();"
-              ]
-            }
-          ]
+          "answers": []
         },
         {
           "link": "https://www.sololearn.com/learning/1059/1835",
           "title": "33.1 Lesson - Function Parameters",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1059/1835/3542/2",
-              "texts": [
-                "7"
-              ]
-            },
             {
               "url": "https://www.sololearn.com/learning/1059/1835/3543/2",
               "texts": [
@@ -611,13 +458,7 @@
           "title": "34.1 Lesson - The Return Statement",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1059/1836/3544/2",
-              "menus": [
-                "function sum($num1, $num2) {",
-                "$sum = $num1 + $num2;",
-                "return $sum; }",
-                "echo sum(5, 6);"
-              ]
+              "url": "https://www.sololearn.com/learning/1059/1836/3544/2"
             }
           ]
         },
@@ -650,14 +491,7 @@
         {
           "link": "https://www.sololearn.com/learning/1059/1838",
           "title": "36.1 Lesson - $_SERVER Variables: Script Name",
-          "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1059/1838/3548/2",
-              "texts": [
-                "_"
-              ]
-            }
-          ]
+          "answers": []
         },
         {
           "link": "https://www.sololearn.com/learning/1059/1839",
@@ -674,14 +508,6 @@
           "title": "38.1 Lesson - PHP Forms",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1059/1840/3550/2",
-              "selector": "div:contains(\"form\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1059/1840/3551/2",
-              "selector": "div:contains(\"Action\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1059/1840/3552/2",
               "texts": [
                 "my",
@@ -695,13 +521,6 @@
           "title": "39.1 Lesson - GET and POST",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1059/1841/3554/2",
-              "texts": [
-                "_",
-                "email"
-              ]
-            },
-            {
               "url": "https://www.sololearn.com/learning/1059/1841/3555/2",
               "selector": "div:contains(\"GET\")[class^=sl-single-choice-item]"
             }
@@ -712,19 +531,7 @@
           "title": "40.1 Lesson - $_SESSION",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1059/1842/3556/2",
-              "texts": [
-                "session_start"
-              ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1059/1842/3557/2",
-              "menus": [
-                "session_start();",
-                "$name = \"Alex\";",
-                "$_SESSION['name'] = $name;",
-                "echo $_SESSION['name'];"
-              ]
+              "url": "https://www.sololearn.com/learning/1059/1842/3557/2"
             }
           ]
         },
@@ -732,10 +539,6 @@
           "link": "https://www.sololearn.com/learning/1059/1843",
           "title": "41.1 Lesson - $_COOKIE",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1059/1843/3558/2",
-              "selector": "div:contains(\"On the user's computer\")[class^=sl-single-choice-item]"
-            },
             {
               "url": "https://www.sololearn.com/learning/1059/1843/3559/2",
               "texts": [
@@ -751,18 +554,10 @@
           "title": "42.1 Lesson - Module 7 Quiz",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1059/1844/3560/2",
-              "selector": "div:contains(\"POST\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1059/1844/3561/2",
               "texts": [
                 "login"
               ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1059/1844/3562/2",
-              "selector": "div:contains(\"No\")[class^=sl-single-choice-item]"
             },
             {
               "url": "https://www.sololearn.com/learning/1059/1844/3563/2",
@@ -779,7 +574,7 @@
           "title": "43.1 Lesson - Writing to a File",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1059/1845/3564/2",
+              "url": "https://www.sololearn.com/learning/1059/1845/3566",
               "buttons": [
                 "fopen",
                 "'test.txt'",
@@ -793,13 +588,7 @@
               ]
             },
             {
-              "url": "https://www.sololearn.com/learning/1059/1845/3567/2",
-              "menus": [
-                "$handle = fopen('num.txt', 'w');",
-                "fwrite($handle, '1');",
-                "fwrite($handle, '2');",
-                "fclose($handle);"
-              ]
+              "url": "https://www.sololearn.com/learning/1059/1845/3567/2"
             }
           ]
         },
@@ -807,10 +596,6 @@
           "link": "https://www.sololearn.com/learning/1059/1846",
           "title": "44.1 Lesson - Appending to a File",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1059/1846/3568/2",
-              "selector": "div:contains(\"d\")[class^=sl-single-choice-item]"
-            },
             {
               "url": "https://www.sololearn.com/learning/1059/1846/3569/2",
               "texts": [
@@ -826,10 +611,6 @@
           "title": "45.1 Lesson - Reading a File",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1059/1847/3570/2",
-              "selector": "div:contains(\"file()\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1059/1847/3571/2",
               "texts": [
                 "count"
@@ -841,10 +622,6 @@
           "link": "https://www.sololearn.com/learning/1059/1848",
           "title": "46.1 Lesson - Module 8 Quiz",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1059/1848/3573/2",
-              "selector": "div:contains(\"fopen(\"time.txt\",\"r\");\")[class^=sl-single-choice-item]"
-            },
             {
               "url": "https://www.sololearn.com/learning/1059/1848/3574/2",
               "texts": [
@@ -866,10 +643,6 @@
           "link": "https://www.sololearn.com/learning/1059/3006",
           "title": "47.1 Lesson - Classes & Objects",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1059/3006/6531/2",
-              "selector": "div:contains(\"True\")[class^=sl-single-choice-item]"
-            },
             {
               "url": "https://www.sololearn.com/learning/1059/3006/6549/2",
               "texts": [
@@ -922,60 +695,20 @@
                 "class",
                 "extends"
               ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1059/3015/6560/2",
-              "selector": "div:contains(\"protected\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1059/3015/6561/2",
-              "texts": [
-                "interface",
-                "class",
-                "implements",
-                "play"
-              ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1059/3015/6564/2",
-              "texts": [
-                "42"
-              ]
             }
           ]
         },
         {
           "link": "https://www.sololearn.com/learning/1059/3016",
           "title": "50.1 Lesson - static and final",
-          "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1059/3016/6569/2",
-              "texts": [
-                "static",
-                "self",
-                "::"
-              ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1059/3016/6570/2",
-              "texts": [
-                "final",
-                "class",
-                "extends"
-              ]
-            }
-          ]
+          "answers": []
         },
         {
           "link": "https://www.sololearn.com/learning/1059/3012",
           "title": "51.1 Lesson - Module Quiz",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1059/3012/6540/2",
-              "selector": "div:contains(\"Object Oriented Programming\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1059/3012/6542/2",
+              "url": "https://www.sololearn.com/learning/1059/3012/6571",
               "selector": "div:contains(\"instantiation\")[class^=sl-single-choice-item]"
             },
             {
@@ -996,12 +729,8 @@
               ]
             },
             {
-              "url": "https://www.sololearn.com/learning/1059/3012/6573/2",
+              "url": "https://www.sololearn.com/learning/1059/3012/6574",
               "selector": "div:contains(\"this\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1059/3012/6574/2",
-              "selector": "div:contains(\"final methods cannot be overridden\")[class^=sl-single-choice-item]"
             }
           ]
         }
@@ -1016,7 +745,7 @@
           "title": "1.1 Lesson - What is CSS?",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/1078/1214/2",
+              "url": "https://www.sololearn.com/learning/1023/1078/1215",
               "selector": "div:contains(\"to control the look and feel of web documents\")[class^=sl-single-choice-item]"
             },
             {
@@ -1030,14 +759,6 @@
           "title": "2.1 Lesson - Inline, Embedded, External CSS",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/1079/1216/2",
-              "selector": "div:contains(\"style\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/1079/1217/2",
-              "selector": "div:contains(\"head\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/1079/1218/2",
               "texts": [
                 "link"
@@ -1050,16 +771,7 @@
           "title": "3.1 Lesson - CSS Rules and Selectors",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/1080/1219/2",
-              "selector": "div:contains(\"selects which element to style\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/1080/1221/2",
-              "menus": [
-                "p {",
-                "color: blue;",
-                "}"
-              ]
+              "url": "https://www.sololearn.com/learning/1023/1080/1221/2"
             },
             {
               "url": "https://www.sololearn.com/learning/1023/1080/1222/2",
@@ -1080,23 +792,12 @@
         {
           "link": "https://www.sololearn.com/learning/1023/1081",
           "title": "4.1 Lesson - CSS Comments",
-          "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/1081/1224/2",
-              "texts": [
-                "/*",
-                "*/"
-              ]
-            }
-          ]
+          "answers": []
         },
         {
           "link": "https://www.sololearn.com/learning/1023/1082",
           "title": "5.1 Lesson - Style Cascade and Inheritance",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/1082/1226/2"
-            },
             {
               "url": "https://www.sololearn.com/learning/1023/1082/1227/2",
               "selector": "div:contains(\"red\")[class^=sl-single-choice-item]"
@@ -1108,11 +809,11 @@
           "title": "6.1 Lesson - Module 1 Quiz",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/1083/1228/2",
+              "url": "https://www.sololearn.com/learning/1023/1083/1229",
               "selector": "div:contains(\"External\")[class^=sl-single-choice-item]"
             },
             {
-              "url": "https://www.sololearn.com/learning/1023/1083/1229/2",
+              "url": "https://www.sololearn.com/learning/1023/1083/1230",
               "selector": "div:contains(\"tag\")[class^=sl-single-choice-item]"
             },
             {
@@ -1132,33 +833,12 @@
         {
           "link": "https://www.sololearn.com/learning/1023/1084",
           "title": "7.1 Lesson - font-family",
-          "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/1084/1231/2",
-              "buttons": [
-                "p",
-                "font-family",
-                "Arial"
-              ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/1084/1232/2",
-              "selector": "div:contains(\"it consists of two or more words\")[class^=sl-single-choice-item]"
-            }
-          ]
+          "answers": []
         },
         {
           "link": "https://www.sololearn.com/learning/1023/1085",
           "title": "8.1 Lesson - font-size",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/1085/1233/2",
-              "menus": [
-                "p {",
-                "font-size:large;",
-                "}"
-              ]
-            },
             {
               "url": "https://www.sololearn.com/learning/1023/1085/1234/2",
               "texts": [
@@ -1188,10 +868,6 @@
           "title": "10.1 Lesson - font-weight",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/1087/1237/2",
-              "selector": "div:contains(\"font-weight\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/1087/1238/2",
               "selector": "div:contains(\"100-900\")[class^=sl-single-choice-item]"
             }
@@ -1214,15 +890,11 @@
           "title": "12.1 Lesson - color",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/1089/1240/2",
-              "buttons": [
-                "colored",
-                "color",
-                "green"
+              "url": "https://www.sololearn.com/learning/1023/1089/1241/2",
+              "choices": [
+                "hexadecimal",
+                "color names"
               ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/1089/1241/2"
             }
           ]
         },
@@ -1247,14 +919,6 @@
                 "align",
                 "bottom"
               ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/1091/1245/2",
-              "selector": "div:contains(\"True\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/1091/1246/2",
-              "selector": "div:contains(\"No\")[class^=sl-single-choice-item]"
             }
           ]
         },
@@ -1262,10 +926,6 @@
           "link": "https://www.sololearn.com/learning/1023/1092",
           "title": "15.1 Lesson - text-decoration",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/1092/1247/2",
-              "selector": "div:contains(\"line-through\")[class^=sl-single-choice-item]"
-            },
             {
               "url": "https://www.sololearn.com/learning/1023/1092/1248/2",
               "texts": [
@@ -1291,10 +951,6 @@
           "title": "17.1 Lesson - text-shadow",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/1094/1251/2",
-              "selector": "div:contains(\"horizontal position vertical position blur color\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/1094/1252/2",
               "texts": [
                 "text-shadow",
@@ -1309,13 +965,6 @@
           "title": "18.1 Lesson - text-transform",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/1095/1253/2",
-              "buttons": [
-                "text-transform",
-                "capitalize"
-              ]
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/1095/1254/2",
               "selector": "div:contains(\"small-caps\")[class^=sl-single-choice-item]"
             }
@@ -1325,13 +974,6 @@
           "link": "https://www.sololearn.com/learning/1023/1096",
           "title": "19.1 Lesson - letter-spacing",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/1096/1255/2",
-              "buttons": [
-                "letter",
-                "spacing"
-              ]
-            },
             {
               "url": "https://www.sololearn.com/learning/1023/1096/1256/2",
               "texts": [
@@ -1345,13 +987,6 @@
           "title": "20.1 Lesson - word-spacing",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/1097/1257/2",
-              "texts": [
-                "word",
-                "15"
-              ]
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/1097/1258/2",
               "selector": "div:contains(\"feet, yards\")[class^=sl-single-choice-item]"
             }
@@ -1362,9 +997,6 @@
           "title": "21.1 Lesson - white-spacing",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/1098/1259/2"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/1098/1260/2",
               "selector": "div:contains(\"\"pre\" accepts all line-breaks and whitespace, while \"pre-line\" ignores the whitespace\")[class^=sl-single-choice-item]"
             }
@@ -1374,10 +1006,6 @@
           "link": "https://www.sololearn.com/learning/1023/2332",
           "title": "22.1 Lesson - Module 2 Quiz",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/2332/1293/2",
-              "selector": "div:contains(\"p {font-weight:bold;}\")[class^=sl-single-choice-item]"
-            },
             {
               "url": "https://www.sololearn.com/learning/1023/2332/1324/2",
               "texts": [
@@ -1417,10 +1045,6 @@
               ]
             },
             {
-              "url": "https://www.sololearn.com/learning/1023/1100/1264/2",
-              "selector": "div:contains(\"padding\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/1100/1265/2",
               "texts": [
                 "174"
@@ -1433,20 +1057,9 @@
           "title": "25.1 Lesson - Borders",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/1101/1266/2"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/1101/1267/2",
               "texts": [
                 "border-style:"
-              ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/1101/1268/2",
-              "buttons": [
-                "border-style",
-                "border-width",
-                "border-color"
               ]
             }
           ]
@@ -1462,10 +1075,6 @@
                 "height",
                 "50"
               ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/1102/1270/2",
-              "selector": "div:contains(\"pixels and percents\")[class^=sl-single-choice-item]"
             },
             {
               "url": "https://www.sololearn.com/learning/1023/1102/1271/2",
@@ -1485,14 +1094,6 @@
               "texts": [
                 "background-"
               ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/1103/1273/2",
-              "texts": [
-                "#mystyle",
-                "background-color",
-                "#"
-              ]
             }
           ]
         },
@@ -1501,16 +1102,8 @@
           "title": "28.1 Lesson - background-image",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/1104/1274/2",
+              "url": "https://www.sololearn.com/learning/1023/1104/1275",
               "selector": "div:contains(\"url(\"pix/weave1.png\")\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/1104/1275/2",
-              "texts": [
-                "{",
-                "url",
-                "}"
-              ]
             }
           ]
         },
@@ -1525,12 +1118,6 @@
                 "repeat",
                 "-y"
               ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/1105/1277/2",
-              "texts": [
-                "inherit"
-              ]
             }
           ]
         },
@@ -1539,14 +1126,8 @@
           "title": "30.1 Lesson - background-attachment",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/1106/1278/2",
+              "url": "https://www.sololearn.com/learning/1023/1106/1279",
               "selector": "div:contains(\"background-image\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/1106/1279/2",
-              "texts": [
-                "scroll"
-              ]
             }
           ]
         },
@@ -1555,22 +1136,8 @@
           "title": "31.1 Lesson - Styling the Lists",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/1107/1280/2",
+              "url": "https://www.sololearn.com/learning/1023/1107/1281",
               "selector": "div:contains(\"the bullets or numberings of the list\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/1107/1281/2",
-              "texts": [
-                "url"
-              ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/1107/1282/2",
-              "buttons": [
-                "type",
-                "position",
-                "image"
-              ]
             }
           ]
         },
@@ -1578,9 +1145,6 @@
           "link": "https://www.sololearn.com/learning/1023/1108",
           "title": "32.1 Lesson - Styling the Tables",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/1108/1283/2"
-            },
             {
               "url": "https://www.sololearn.com/learning/1023/1108/1284/2",
               "texts": [
@@ -1608,10 +1172,6 @@
           "title": "33.1 Lesson - Styling the Links",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/1109/1287/2",
-              "selector": "div:contains(\"pseudo\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/1109/1288/2",
               "texts": [
                 "none"
@@ -1633,13 +1193,6 @@
               "url": "https://www.sololearn.com/learning/1023/1110/1291/2",
               "texts": [
                 "crosshair"
-              ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/1110/1292/2",
-              "buttons": [
-                "cursor",
-                "pointer"
               ]
             }
           ]
@@ -1683,10 +1236,6 @@
           "title": "36.1 Lesson - The display Property",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/1112/1297/2",
-              "selector": "div:contains(\"block\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/1112/1298/2",
               "texts": [
                 "inline"
@@ -1705,39 +1254,23 @@
           "title": "37.1 Lesson - The visibility Property",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/1113/1300/2"
+              "url": "https://www.sololearn.com/learning/1023/1113/1300/2",
+              "choices": [
+                "visible",
+                "hidden"
+              ]
             }
           ]
         },
         {
           "link": "https://www.sololearn.com/learning/1023/1114",
           "title": "38.1 Lesson - Positioning",
-          "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/1114/1301/2",
-              "selector": "div:contains(\"To make the element run in the natural order of the page\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/1114/1302/2",
-              "buttons": [
-                "position",
-                "left",
-                "top"
-              ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/1114/1304/2",
-              "selector": "div:contains(\"It puts the element relative to the normal flow\")[class^=sl-single-choice-item]"
-            }
-          ]
+          "answers": []
         },
         {
           "link": "https://www.sololearn.com/learning/1023/1115",
           "title": "39.1 Lesson - Floating",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/1115/1306/2"
-            },
             {
               "url": "https://www.sololearn.com/learning/1023/1115/1308/2",
               "selector": "div:contains(\"width\")[class^=sl-single-choice-item]"
@@ -1749,18 +1282,10 @@
           "title": "40.1 Lesson - The clear Property",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/1116/1310/2",
-              "selector": "div:contains(\"The ones coming after that element\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/1116/1311/2",
               "texts": [
                 "both"
               ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/1116/1312/2",
-              "selector": "div:contains(\"take the next element off the floating group\")[class^=sl-single-choice-item]"
             }
           ]
         },
@@ -1768,10 +1293,6 @@
           "link": "https://www.sololearn.com/learning/1023/1117",
           "title": "41.1 Lesson - The overflow Property",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/1117/1313/2",
-              "selector": "div:contains(\"Specify the behavior that occurs when the content overflows the element's box\")[class^=sl-single-choice-item]"
-            },
             {
               "url": "https://www.sololearn.com/learning/1023/1117/1314/2",
               "texts": [
@@ -1790,29 +1311,12 @@
         {
           "link": "https://www.sololearn.com/learning/1023/1118",
           "title": "42.1 Lesson - The z-index Property",
-          "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/1118/1316/2",
-              "selector": "div:contains(\"the last element\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/1118/1318/2",
-              "selector": "div:contains(\"position elements\")[class^=sl-single-choice-item]"
-            }
-          ]
+          "answers": []
         },
         {
           "link": "https://www.sololearn.com/learning/1023/1119",
           "title": "43.1 Lesson - Module 4 Quiz",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/1119/1319/2",
-              "selector": "div:contains(\"up\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/1119/1320/2",
-              "selector": "div:contains(\"flow around the element associated with the \"float\" property\")[class^=sl-single-choice-item]"
-            },
             {
               "url": "https://www.sololearn.com/learning/1023/1119/1321/2",
               "texts": [
@@ -1840,18 +1344,10 @@
           "title": "44.1 Lesson - Introduction to CSS3",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/2236/4462/2",
-              "selector": "div:contains(\"Yes\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/2236/4464/2",
               "texts": [
                 "radial"
               ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/2236/4465/2",
-              "selector": "div:contains(\"Transitions\")[class^=sl-single-choice-item]"
             }
           ]
         },
@@ -1859,12 +1355,6 @@
           "link": "https://www.sololearn.com/learning/1023/2237",
           "title": "45.1 Lesson - Vendor Prefixes",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/2237/4466/2",
-              "texts": [
-                "webkit"
-              ]
-            },
             {
               "url": "https://www.sololearn.com/learning/1023/2237/4467/2",
               "buttons": [
@@ -1879,15 +1369,6 @@
           "title": "46.1 Lesson - Rounded Corners",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/2238/4469/2",
-              "texts": [
-                "0",
-                "20",
-                "10",
-                "15"
-              ]
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/2238/4470/2",
               "selector": "div:contains(\"equal to half of the height and the width\")[class^=sl-single-choice-item]"
             }
@@ -1898,67 +1379,24 @@
           "title": "47.1 Lesson - box-shadow",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/2239/4471/2",
-              "texts": [
-                "box-shadow",
-                "20",
-                "10"
-              ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/2239/4472/2"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/2239/4474/2",
-              "menus": [
-                "Horizontal offset",
-                "Vertical offset",
-                "Blur",
-                "Spread",
-                "Color"
-              ]
+              "url": "https://www.sololearn.com/learning/1023/2239/4474/2"
             }
           ]
         },
         {
           "link": "https://www.sololearn.com/learning/1023/2240",
           "title": "48.1 Lesson - Box Shadow Techniques",
-          "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/2240/4475/2",
-              "selector": "div:contains(\"inset\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/2240/4476/2",
-              "selector": "div:contains(\",\")[class^=sl-single-choice-item]"
-            }
-          ]
+          "answers": []
         },
         {
           "link": "https://www.sololearn.com/learning/1023/2290",
           "title": "49.1 Lesson - Transparency Effect",
-          "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/2290/4590/2",
-              "texts": [
-                "border-",
-                "shadow",
-                "inset"
-              ]
-            }
-          ]
+          "answers": []
         },
         {
           "link": "https://www.sololearn.com/learning/1023/2241",
           "title": "50.1 Lesson - text-shadow",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/2241/4477/2",
-              "texts": [
-                "25",
-                "15"
-              ]
-            },
             {
               "url": "https://www.sololearn.com/learning/1023/2241/4478/2",
               "selector": "div:contains(\"Multiple\")[class^=sl-single-choice-item]"
@@ -1982,10 +1420,6 @@
           "link": "https://www.sololearn.com/learning/1023/2257",
           "title": "52.1 Lesson - Pseudo Elements",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/2257/4520/2",
-              "selector": "div:contains(\"::heading\")[class^=sl-single-choice-item]"
-            },
             {
               "url": "https://www.sololearn.com/learning/1023/2257/4521/2",
               "texts": [
@@ -2011,41 +1445,15 @@
         {
           "link": "https://www.sololearn.com/learning/1023/2264",
           "title": "54.1 Lesson - @font-face",
-          "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/2264/4535/2"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/2264/4537/2",
-              "texts": [
-                "@font-face",
-                "font-family",
-                "src"
-              ]
-            }
-          ]
+          "answers": []
         },
         {
           "link": "https://www.sololearn.com/learning/1023/2265",
           "title": "55.1 Lesson - Module 5 Quiz",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/2265/4542/2",
-              "selector": "div:contains(\"30\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/2265/4591/2",
-              "selector": "div:contains(\"@font-face\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/2265/4592/2",
-              "buttons": [
-                "#mytext",
-                "shadow",
-                "5px",
-                "3px",
-                "color"
-              ]
+              "selector": "div:contains(\"30\")[class^=sl-single-choice-item]"
             },
             {
               "url": "https://www.sololearn.com/learning/1023/2265/4593/2",
@@ -2064,26 +1472,14 @@
           "title": "56.1 Lesson - Linear Gradients",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/2242/4480/2",
-              "selector": "div:contains(\"CMYK\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/2242/4481/2",
               "texts": [
                 "20%"
               ]
             },
             {
-              "url": "https://www.sololearn.com/learning/1023/2242/4482/2",
-              "selector": "div:contains(\"Center\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/2242/4483/2",
               "selector": "div:contains(\"linear-gradient(0deg, red, yellow);\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/2242/4484/2",
-              "selector": "div:contains(\"repeating-linear-gradient\")[class^=sl-single-choice-item]"
             }
           ]
         },
@@ -2092,22 +1488,8 @@
           "title": "57.1 Lesson - Radial Gradients",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/2243/4485/2"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/2243/4486/2",
               "selector": "div:contains(\"Ellipse\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/2243/4487/2",
-              "selector": "div:contains(\"Radian\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/2243/4488/2",
-              "texts": [
-                "20",
-                "70"
-              ]
             }
           ]
         },
@@ -2115,13 +1497,6 @@
           "link": "https://www.sololearn.com/learning/1023/2244",
           "title": "58.1 Lesson - background-size",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/2244/4489/2",
-              "texts": [
-                "200",
-                "100"
-              ]
-            },
             {
               "url": "https://www.sololearn.com/learning/1023/2244/4490/2",
               "selector": "div:contains(\"contain\")[class^=sl-single-choice-item]"
@@ -2132,10 +1507,6 @@
           "link": "https://www.sololearn.com/learning/1023/2245",
           "title": "59.1 Lesson - background-clip",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/2245/4491/2",
-              "selector": "div:contains(\"text-box\")[class^=sl-single-choice-item]"
-            },
             {
               "url": "https://www.sololearn.com/learning/1023/2245/4492/2",
               "selector": "div:contains(\"Yes\")[class^=sl-single-choice-item]"
@@ -2160,10 +1531,6 @@
           "title": "61.1 Lesson - Multiple Background Images",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/2247/4494/2",
-              "selector": "div:contains(\"Bottom\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/2247/4495/2",
               "texts": [
                 "url",
@@ -2178,12 +1545,6 @@
           "link": "https://www.sololearn.com/learning/1023/2248",
           "title": "62.1 Lesson - opacity",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/2248/4496/2",
-              "texts": [
-                "0.3"
-              ]
-            },
             {
               "url": "https://www.sololearn.com/learning/1023/2248/4497/2",
               "texts": [
@@ -2206,19 +1567,6 @@
               ]
             },
             {
-              "url": "https://www.sololearn.com/learning/1023/2291/4594/2",
-              "selector": "div:contains(\"padding-box\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/2291/4595/2",
-              "buttons": [
-                "url",
-                "size",
-                "opacity",
-                "0.5"
-              ]
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/2291/4727/2",
               "buttons": [
                 "0.5",
@@ -2232,33 +1580,12 @@
         {
           "link": "https://www.sololearn.com/learning/1023/2249",
           "title": "64.1 Lesson - Transitions",
-          "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/2249/4498/2",
-              "selector": "div:contains(\"type\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/2249/4499/2",
-              "buttons": [
-                "transition",
-                "background-color",
-                "5s"
-              ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/2249/4500/2",
-              "selector": "div:contains(\"cubic-bezier()\")[class^=sl-single-choice-item]"
-            }
-          ]
+          "answers": []
         },
         {
           "link": "https://www.sololearn.com/learning/1023/2250",
           "title": "65.1 Lesson - transform: rotate()",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/2250/4501/2",
-              "selector": "div:contains(\"angle\")[class^=sl-single-choice-item]"
-            },
             {
               "url": "https://www.sololearn.com/learning/1023/2250/4502/2",
               "texts": [
@@ -2273,20 +1600,12 @@
           "title": "66.1 Lesson - transform origin, translate(), skew()",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/2251/4503/2",
-              "selector": "div:contains(\"center\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/2251/4504/2",
               "texts": [
                 "translate",
                 "50",
                 "100"
               ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/2251/4505/2",
-              "selector": "div:contains(\"degrees\")[class^=sl-single-choice-item]"
             }
           ]
         },
@@ -2294,12 +1613,6 @@
           "link": "https://www.sololearn.com/learning/1023/2252",
           "title": "67.1 Lesson - scale(), Multiple Transformations",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/2252/4506/2",
-              "texts": [
-                "scale"
-              ]
-            },
             {
               "url": "https://www.sololearn.com/learning/1023/2252/4507/2",
               "selector": "div:contains(\"spaces\")[class^=sl-single-choice-item]"
@@ -2310,10 +1623,6 @@
           "link": "https://www.sololearn.com/learning/1023/2253",
           "title": "68.1 Lesson - Keyframes & Animation",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/2253/4508/2",
-              "selector": "div:contains(\"Yes\")[class^=sl-single-choice-item]"
-            },
             {
               "url": "https://www.sololearn.com/learning/1023/2253/4510/2",
               "texts": [
@@ -2332,13 +1641,6 @@
           "link": "https://www.sololearn.com/learning/1023/2254",
           "title": "69.1 Lesson - Animation Properties",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/2254/4511/2",
-              "texts": [
-                "animation-duration",
-                "5s"
-              ]
-            },
             {
               "url": "https://www.sololearn.com/learning/1023/2254/4512/2",
               "texts": [
@@ -2367,20 +1669,10 @@
           "title": "70.1 Lesson - 3D Transforms",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/2256/4517/2",
-              "buttons": [
-                "rotateZ"
-              ]
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/2256/4518/2",
               "texts": [
                 "-100"
               ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/2256/4519/2",
-              "selector": "div:contains(\"further distance\")[class^=sl-single-choice-item]"
             }
           ]
         },
@@ -2389,16 +1681,8 @@
           "title": "71.1 Lesson - Module 7 Quiz",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/2292/4559/2",
-              "selector": "div:contains(\"scale()\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/2292/4558/2",
-              "selector": "div:contains(\"Pushed down 100 pixels\")[class^=sl-single-choice-item]"
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/2292/4546/2",
-              "selector": "div:contains(\"skewB\")[class^=sl-single-choice-item]"
+              "selector": "div:contains(\"scale()\")[class^=sl-single-choice-item]"
             },
             {
               "url": "https://www.sololearn.com/learning/1023/2292/4560/2",
@@ -2425,10 +1709,6 @@
           "title": "72.1 Lesson - CSS Filters",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/2964/6459/2",
-              "selector": "div:contains(\"inverse\")[class^=sl-single-choice-item]"
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/2964/6521/2",
               "texts": [
                 "drop-shadow"
@@ -2441,13 +1721,6 @@
           "title": "73.1 Lesson - Filter Functions",
           "answers": [
             {
-              "url": "https://www.sololearn.com/learning/1023/3004/6522/2",
-              "texts": [
-                "filter",
-                "grayscale"
-              ]
-            },
-            {
               "url": "https://www.sololearn.com/learning/1023/3004/6523/2",
               "texts": [
                 "filter",
@@ -2459,10 +1732,6 @@
               "texts": [
                 "1"
               ]
-            },
-            {
-              "url": "https://www.sololearn.com/learning/1023/3004/6525/2",
-              "selector": "div:contains(\"green\")[class^=sl-single-choice-item]"
             },
             {
               "url": "https://www.sololearn.com/learning/1023/3004/6526/2",
@@ -2511,25 +1780,12 @@
         {
           "link": "https://www.sololearn.com/learning/1023/2999",
           "title": "75.1 Lesson - Using Multiple CSS Filters",
-          "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/2999/6505/2",
-              "texts": [
-                "drop-shadow",
-                "blur",
-                "50"
-              ]
-            }
-          ]
+          "answers": []
         },
         {
           "link": "https://www.sololearn.com/learning/1023/3003",
           "title": "76.1 Lesson - Module 8 Quiz",
           "answers": [
-            {
-              "url": "https://www.sololearn.com/learning/1023/3003/6514/2",
-              "selector": "div:contains(\"invert\")[class^=sl-single-choice-item]"
-            },
             {
               "url": "https://www.sololearn.com/learning/1023/3003/6516/2",
               "texts": [
